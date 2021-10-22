@@ -1,0 +1,43 @@
+- Hi all, I’m @caligulate, your standard-issue bay area autistic gay burner tech nerd.
+- I'm fiercly protective of my personal privacy.
+- My background:
+  - Undergrad+masters in CS with a minor in math at a top 3 school.
+  - Worked at a bunch of startups.
+  - Was CTO of something you've heard of.
+  - Worked at more than one FAANG company, been at one for well over a decade now.
+  - Managed a lot of people. Very little desire to do it again.
+- My focus areas:
+  - Large-scale distributed systems. 
+  - Emerging concurrency models (fibers, coroutines, goroutines, etc).
+  - Cost and performance analysis.
+  - Interviewing.
+  - Inclusiveness in tech.
+- Interests:
+  - Cryptocurrency. 
+  - Thread scheduling.
+  - Effective application of cpu-local, thread-local, and atomic patterns.
+  - Rethinking concurrency in the context of large numbers of cores.
+  - SIMD / GPU processing.
+  - I hear rust is cool.
+  - ML infrastructure
+    - ML itself is super-cool, but too big a commitment to learn properly.
+  - Self-tuning systems.
+- Primary Toolkit:
+  - C++
+  - SQL successors (Redshift, BigQuery, etc)
+  - R
+  - golang (just not on a critical path)
+- Dislikes:
+  - Excessive metaprogramming.
+  - Java is an abomination that should be wiped from the Earth.
+  - Async programming models.
+  - Stop-the-world garbage collection.
+    - If you think it's OK for your binary to randomly pause for 10ms (golang) or 13 years (java), we have nothing to discuss.
+  - Weakly-typed languages.
+  - Whoever decided to change python from a solid, highly readable/highly usable language to decorator hell.
+  - Opinionated IDEs.
+  
+<!---
+caligulate/caligulate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
