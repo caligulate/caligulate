@@ -26,6 +26,7 @@
   - Larry Ellison can eat a dick.
   - Bitcoin and etherium have earned their role as kings.
     - But they need to be deposed.
+  - Art matters.
      
 <!---
 caligulate/caligulate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
